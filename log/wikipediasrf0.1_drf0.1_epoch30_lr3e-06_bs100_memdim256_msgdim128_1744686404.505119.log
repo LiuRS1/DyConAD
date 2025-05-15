@@ -1,0 +1,3 @@
+2025-04-15 11:06:44,505 - root - INFO - Namespace(agg_type='TGAT', bs=100, data='wikipedia', drf=0.1, drop_out=0.1, gpu=0, lr=3e-06, lr_decay=0.7, memory_dim=256, memory_updater='egru', message_dim=128, message_updater='mlp', n_epoch=30, n_head=2, n_neighbors=20, n_runs=1, negative_memory_type='train', num_layer=1, only_drift_loss_score=False, only_drift_score=False, only_rec_score=False, only_recovery_loss_score=False, seed=0, srf=0.1, test_inference_time=False, training_ratio=0.85, weight_decay=0.0001)
+2025-04-15 11:06:44,506 - root - INFO - Data Processing
+2025-04-15 11:06:46,588 - root - INFO - Dynamic anomaly detection start - runs: 0
